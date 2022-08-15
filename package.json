@@ -1,0 +1,19 @@
+{
+    "name": "com.cambridge-iis.mobodesigner",
+    "version": "1.0.0",
+    "displayName": "MOBO Designer Integration Package",
+    "description": "This package supports the MOBO design procedure.",
+    "unity": "2019.4",
+    "unityRelease": "29f1",
+    "author": {
+      "name": "John Dudley",
+      "url": "https://www.jjdudley.com"
+    },
+    "samples": [
+      {
+        "displayName": "ToyDesignPrefab",
+        "description": "Simplistic design example",
+        "path": "Samples/IntegrationExample"
+      }
+    ]
+  }
