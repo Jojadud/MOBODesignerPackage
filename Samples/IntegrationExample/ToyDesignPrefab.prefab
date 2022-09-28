@@ -44,8 +44,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8309bdaaa8a5b7b4dae76f4a8ef733c8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  obj1: 0
-  obj2: 0
+  targetPrefab: {fileID: 4082666928828558915, guid: 3de28c16393028c49aae312f58b02ed5,
+    type: 3}
+  buttonPrefab: {fileID: 8818514806401802474, guid: 5106625e06422a44bb5f2e0f44473622,
+    type: 3}
+  infoTextPrefab: {fileID: 2120999731970303849, guid: 69384944d9641b34fa44413be098d2b6,
+    type: 3}
 --- !u!114 &6438743885143159605
 MonoBehaviour:
   m_ObjectHideFlags: 0
